@@ -83,7 +83,7 @@ A **simple Java console application** that generates employee payslips with a de
 ### 📈 Earnings
 - 🔹 Basic Pay  
 - 🔹 Incentive Pay  
-- 🔹 House Rent Allowance (HRA)  
+- 🔹 House Rent Allowance (HRA) 
 - 🔹 Meal Allowance  
 
 ### 📉 Deductions
