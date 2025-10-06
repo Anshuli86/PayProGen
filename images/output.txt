@@ -1,1 +1,32 @@
+Enter Employee Name: Advika Sharma
+Enter Employee ID: 102
+Enter Designation: Software Engineer
+Enter Department: IT
+Enter Pay Period: August 2025
+Enter Working Days: 60
+Enter Leave Days: 3
+Enter Basic Pay: 50000
+Enter Incentive Pay: 8000
+Enter House Rent Allowance: 10000
+Enter Meal Allowance: 2000
+Enter Provident Fund: 5000
+Enter Professional Tax: 200
+Enter Loan: 1000
 
+===============================PAY SLIP================================
+
+Employee Name: Advika Sharma          	 Employee ID:102
+Designation: Software Engineer          	Department: IT
+Pay Period: August 2025          	 Working Days: 60
+Leave Days: 3
+--------------------------------------------------------------------
+Earnings:                          	 Deductions: 
+--------------------------------------------------------------------
+Basic Pay: 50000.0                 	Provident Fund: 5000.0
+Incentive Pay: 8000.0                 	Professional Tax: 200.0
+House Rent Allowance: 10000.0        	 Loan: 1000.0
+Meal Allowance: 2000.0
+
+Total Earnings: 70000.0          	 Total Deductions6200.0
+--------------------------------------------------------------------
+                    Net Pay: 63800.0
